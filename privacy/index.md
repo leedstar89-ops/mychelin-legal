@@ -6,8 +6,8 @@ permalink: /privacy/
 
 # Mychelin 개인정보처리방침
 
-버전: `2026-08-21.1`  
-시행일: 2026년 8월 21일
+버전: `2026-08-22.1`  
+시행일: 2026년 8월 22일
 
 **이대규**(이하 “운영자”)는 Mychelin 서비스 이용자의 개인정보를 중요하게 생각하며, 개인정보 보호법 등 관련 법령을 준수합니다.
 
@@ -122,8 +122,8 @@ Mychelin은 원칙적으로 만 14세 이상을 대상으로 하며 가입 시 �
 
 # Mychelin Privacy Policy (English Reference Translation)
 
-Version: `2026-08-21.1`  
-Effective date: August 21, 2026. The Korean version governs unless mandatory law requires otherwise.
+Version: `2026-08-22.1`  
+Effective date: August 22, 2026. The Korean version governs unless mandatory law requires otherwise.
 
 Mychelin uses a Kakao provider identifier and a Supabase UUID to authenticate members. It does **not** request Kakao account email, Kakao nickname, or Kakao profile image. Members directly provide a nickname and may optionally choose a profile image.
 
