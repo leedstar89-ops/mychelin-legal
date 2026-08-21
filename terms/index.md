@@ -6,8 +6,8 @@ permalink: /terms/
 
 # Mychelin 서비스 이용약관
 
-버전: `2026-08-21.1`  
-시행일: 2026년 8월 21일
+버전: `2026-08-22.1`  
+시행일: 2026년 8월 22일
 
 ## 제1조 목적
 
@@ -107,8 +107,8 @@ permalink: /terms/
 
 # Mychelin Terms of Service (English Reference Translation)
 
-Version: `2026-08-21.1`  
-Effective date: August 21, 2026. The Korean version governs unless mandatory law requires otherwise.
+Version: `2026-08-22.1`  
+Effective date: August 22, 2026. The Korean version governs unless mandatory law requires otherwise.
 
 Mychelin lets members authenticate with Kakao, record restaurant visits and personal taste ratings, manage photos and notes, and optionally use social features. Members must be at least 14, provide only content they may lawfully use, respect others’ rights, and avoid abuse, scraping, impersonation, spam, or interference with the service.
 
